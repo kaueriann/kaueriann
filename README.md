@@ -1,20 +1,17 @@
 # Hi there, I'm Kauê 👋
 
 <p align="center">
-  <img src="./assets/pinky-brain.gif" width="300" alt="Pinky and the Brain working" />
+  <img src="./assets/pinky-brain.gif" width="400" alt="Pinky and the Brain working" />
 </p>
-
-<p align="center">
-  🎓 <strong>Information Systems Student</strong> · 🇧🇷 Brazil
-</p>
-
-I'm an Information Systems student beginning my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**. I'm exploring programming, learning new technologies, and building my knowledge through practical projects.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying Information Systems
+🎓 **Information Systems Student**
+
+I'm beginning my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**. I'm exploring programming, learning new technologies, and developing my skills through personal projects.
+
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 🔐 Interested in Cybersecurity and Information Security
 - 💻 Exploring programming languages and software development
@@ -46,9 +43,9 @@ I'm an Information Systems student beginning my journey in technology, with a st
 
 ## 📚 What I'm Learning
 
-- **Programming:** logic, algorithms, and problem-solving
+- **Programming:** Logic, algorithms, and problem-solving
 - **Artificial Intelligence:** AI concepts, models, and practical applications
-- **Cybersecurity:** digital security, vulnerabilities, and system protection
+- **Cybersecurity:** Digital security, vulnerabilities, and system protection
 - **Web Development:** HTML, CSS, and JavaScript fundamentals
 
 ---
@@ -57,7 +54,7 @@ I'm an Information Systems student beginning my journey in technology, with a st
 
 This profile is where I share personal projects, experiments, and practical exercises throughout my learning journey.
 
-My goal is to turn knowledge into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
+I'm interested in turning what I learn into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
 
 ---
 
