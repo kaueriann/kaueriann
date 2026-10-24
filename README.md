@@ -1,14 +1,22 @@
 # Hi there, I'm Kauê 👋
 
-<p align="center">
-  <img src="./assets/pinky-brain.gif" width="300" alt="Pinky and the Brain working" />
-</p>
-
-<p align="center">
-  🎓 <strong>Information Systems Student</strong> · 🇧🇷 Brazil
-</p>
-
-I'm an Information Systems student beginning my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**. I'm exploring programming, learning new technologies, and building my knowledge through practical projects.
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>🎓 Information Systems Student</h3>
+      <p>🇧🇷 Brazil</p>
+      <p>
+        I'm beginning my journey in technology, with a strong interest in
+        <strong>Artificial Intelligence and Cybersecurity</strong>.
+        I'm exploring programming, learning new technologies, and building
+        my knowledge through practical projects.
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/pinky-brain.gif" width="260" alt="Pinky and the Brain working" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,7 +65,7 @@ I'm an Information Systems student beginning my journey in technology, with a st
 
 This profile is where I share personal projects, experiments, and practical exercises throughout my learning journey.
 
-My goal is to turn knowledge into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
+My goal is to turn what I learn into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
 
 ---
 
