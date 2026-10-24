@@ -4,16 +4,22 @@
   <img src="./assets/pinky-brain.gif" width="420" alt="Pinky and the Brain working" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="28" alt="Graduation cap" />
-  <img src="https://img.shields.io/badge/Information%20Systems-Student-30363D?style=for-the-badge&labelColor=161B22" alt="Information Systems Student" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f916.svg" width="28" alt="Robot" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-4C1D95?style=for-the-badge&labelColor=312E81" alt="Exploring Artificial Intelligence" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f510.svg" width="28" alt="Lock" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Exploring-0F766E?style=for-the-badge&labelColor=134E4A" alt="Exploring Cybersecurity" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="26" alt="Graduation cap" />
+      <img src="https://img.shields.io/badge/Information%20Systems-Student-30363D?style=for-the-badge&labelColor=161B22" alt="Information Systems Student" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f916.svg" width="26" alt="Robot" />
+      <img src="https://img.shields.io/badge/AI-Exploring-4C1D95?style=for-the-badge&labelColor=312E81" alt="Exploring Artificial Intelligence" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f510.svg" width="26" alt="Lock" />
+      <img src="https://img.shields.io/badge/Cybersecurity-Exploring-0F766E?style=for-the-badge&labelColor=134E4A" alt="Exploring Cybersecurity" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,12 +81,12 @@ My goal is to turn what I learn into practical solutions while exploring Artific
 
 <p align="center">
   <img
-    width="49%"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api?username=kaueriann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="Kauê's GitHub Statistics"
   />
   <img
-    width="49%"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueriann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
     alt="Most Used Languages"
   />
