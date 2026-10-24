@@ -3,8 +3,7 @@
 <table>
   <tr>
     <td width="60%" valign="middle">
-      <h3>🎓 Information Systems Student</h3>
-      <p>🇧🇷 Brazil</p>
+      <h3>🎓 Information Systems Student :brazil: </h3>
       <p>
         I'm beginning my journey in technology, with a strong interest in
         <strong>Artificial Intelligence and Cybersecurity</strong>.
