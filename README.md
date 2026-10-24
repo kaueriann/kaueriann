@@ -1,14 +1,14 @@
 # Hi there, I'm Kauê 👋
 
-<img align="right" src="./assets/pinky-brain.gif" width="280" alt="Pinky and the Brain working" />
+<p align="center">
+  <img src="./assets/pinky-brain.gif" width="300" alt="Pinky and the Brain working" />
+</p>
 
-🎓 **Information Systems Student**
+<p align="center">
+  🎓 <strong>Information Systems Student</strong> · 🇧🇷 Brazil
+</p>
 
-I'm beginning my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**.
-
-I'm exploring programming, learning new technologies, and developing my skills through personal projects.
-
-<br clear="right" />
+I'm an Information Systems student beginning my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**. I'm exploring programming, learning new technologies, and building my knowledge through practical projects.
 
 ---
 
@@ -47,7 +47,7 @@ I'm exploring programming, learning new technologies, and developing my skills t
 ## 📚 What I'm Learning
 
 - **Programming:** logic, algorithms, and problem-solving
-- **Artificial Intelligence:** AI fundamentals, models, and practical applications
+- **Artificial Intelligence:** AI concepts, models, and practical applications
 - **Cybersecurity:** digital security, vulnerabilities, and system protection
 - **Web Development:** HTML, CSS, and JavaScript fundamentals
 
@@ -55,9 +55,9 @@ I'm exploring programming, learning new technologies, and developing my skills t
 
 ## 📂 Projects & Experiments
 
-This profile is where I share my personal projects, experiments, and practical exercises as I continue learning.
+This profile is where I share personal projects, experiments, and practical exercises throughout my learning journey.
 
-I'm interested in building practical solutions and exploring how technology can be used in Artificial Intelligence, Cybersecurity, and software development.
+My goal is to turn knowledge into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
 
 ---
 
@@ -71,5 +71,5 @@ I'm interested in building practical solutions and exploring how technology can 
 ---
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <i>Curiosity drives learning. Practice turns knowledge into skills.</i>
 </p>
