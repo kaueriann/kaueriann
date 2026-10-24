@@ -1,21 +1,14 @@
 # Hi there, I'm Kauê 👋
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
-      <h3>🎓 Information Systems Student :brazil: </h3>
-      <p>
-        I'm beginning my journey in technology, with a strong interest in
-        <strong>Artificial Intelligence and Cybersecurity</strong>.
-        I'm exploring programming, learning new technologies, and building
-        my knowledge through practical projects.
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./assets/pinky-brain.gif" width="260" alt="Pinky and the Brain working" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="./assets/pinky-brain.gif" width="280" alt="Pinky and the Brain working" />
+
+🎓 **Information Systems Student**
+
+I'm beginning my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**.
+
+I'm exploring programming, learning new technologies, and developing my skills through personal projects.
+
+<br clear="right" />
 
 ---
 
@@ -54,7 +47,7 @@
 ## 📚 What I'm Learning
 
 - **Programming:** logic, algorithms, and problem-solving
-- **Artificial Intelligence:** AI concepts, models, and practical applications
+- **Artificial Intelligence:** AI fundamentals, models, and practical applications
 - **Cybersecurity:** digital security, vulnerabilities, and system protection
 - **Web Development:** HTML, CSS, and JavaScript fundamentals
 
@@ -62,9 +55,9 @@
 
 ## 📂 Projects & Experiments
 
-This profile is where I share personal projects, experiments, and practical exercises throughout my learning journey.
+This profile is where I share my personal projects, experiments, and practical exercises as I continue learning.
 
-My goal is to turn what I learn into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
+I'm interested in building practical solutions and exploring how technology can be used in Artificial Intelligence, Cybersecurity, and software development.
 
 ---
 
@@ -78,5 +71,5 @@ My goal is to turn what I learn into practical solutions while exploring Artific
 ---
 
 <p align="center">
-  <i>Curiosity drives learning. Practice turns knowledge into skills.</i>
+  <i>Always learning. Always building.</i>
 </p>
