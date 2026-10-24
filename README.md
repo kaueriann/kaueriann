@@ -1,21 +1,33 @@
-# Hi there, I'm Kauê 👋
+<h1 align="center">Hi there, I'm Kauê 👋</h1>
 
 <p align="center">
-  <img src="./assets/pinky-brain.gif" width="400" alt="Pinky and the Brain working" />
+  <img src="./assets/pinky-brain.gif" width="420" alt="Pinky and the Brain working" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="28" alt="Graduation cap" />
+  <img src="https://img.shields.io/badge/Information%20Systems-Student-30363D?style=for-the-badge&labelColor=161B22" alt="Information Systems Student" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f916.svg" width="28" alt="Robot" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-4C1D95?style=for-the-badge&labelColor=312E81" alt="Exploring Artificial Intelligence" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f510.svg" width="28" alt="Lock" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Exploring-0F766E?style=for-the-badge&labelColor=134E4A" alt="Exploring Cybersecurity" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 **Information Systems Student**
+I'm an Information Systems student at the beginning of my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**.
 
-I'm beginning my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**. I'm exploring programming, learning new technologies, and developing my skills through personal projects.
+I'm building my programming skills, exploring new technologies, and learning through practical projects.
 
-- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🎓 Studying Information Systems
+- 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🔐 Interested in Cybersecurity and Information Security
-- 💻 Exploring programming languages and software development
-- 🌱 Building my technical foundations through practice and personal projects
+- 💻 Learning programming and software development
+- 🌱 Developing my technical foundations through practice and experimentation
 
 ---
 
@@ -32,41 +44,58 @@ I'm beginning my journey in technology, with a strong interest in **Artificial I
 ## 🛠️ Languages & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode,linux" alt="Python, C++, HTML, CSS, JavaScript, Git, GitHub, VS Code and Linux" />
+  </a>
 </p>
 
 ---
 
 ## 📚 What I'm Learning
 
-- **Programming:** Logic, algorithms, and problem-solving
-- **Artificial Intelligence:** AI concepts, models, and practical applications
-- **Cybersecurity:** Digital security, vulnerabilities, and system protection
-- **Web Development:** HTML, CSS, and JavaScript fundamentals
+| Area | Focus |
+|:---|:---|
+| 💻 **Programming** | Logic, algorithms, and problem-solving |
+| 🤖 **Artificial Intelligence** | AI fundamentals, models, and practical applications |
+| 🔐 **Cybersecurity** | Security fundamentals, vulnerabilities, and system protection |
+| 🌐 **Web Development** | HTML, CSS, and JavaScript |
+| ⚙️ **Development Tools** | Git, GitHub, and development environments |
 
 ---
 
 ## 📂 Projects & Experiments
 
-This profile is where I share personal projects, experiments, and practical exercises throughout my learning journey.
+This is where I share personal projects, experiments, and practical exercises throughout my learning journey.
 
-I'm interested in turning what I learn into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
+My goal is to turn what I learn into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaueriann&show_icons=true&theme=tokyonight&hide_border=true" alt="Kauê's GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueriann&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=kaueriann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Kauê's GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueriann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="65%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kaueriann&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <i>Curiosity drives learning. Practice turns knowledge into skills.</i>
+  <i>"Curiosity drives learning. Practice turns knowledge into skills."</i>
 </p>
