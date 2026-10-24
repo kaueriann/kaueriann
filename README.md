@@ -1,6 +1,12 @@
 # Hi there, I'm Kauê 👋
 
-🎓 **Information Systems Student** · 🇧🇷 Brazil
+<p align="center">
+  <img src="./assets/pinky-brain.gif" width="300" alt="Pinky and the Brain working" />
+</p>
+
+<p align="center">
+  🎓 <strong>Information Systems Student</strong> · 🇧🇷 Brazil
+</p>
 
 I'm an Information Systems student beginning my journey in technology, with a strong interest in **Artificial Intelligence and Cybersecurity**. I'm exploring programming, learning new technologies, and building my knowledge through practical projects.
 
@@ -12,7 +18,7 @@ I'm an Information Systems student beginning my journey in technology, with a st
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 🔐 Interested in Cybersecurity and Information Security
 - 💻 Exploring programming languages and software development
-- 🌱 Currently building my technical foundations and learning through hands-on practice
+- 🌱 Building my technical foundations through practice and personal projects
 
 ---
 
@@ -28,13 +34,11 @@ I'm an Information Systems student beginning my journey in technology, with a st
 
 ## 🛠️ Languages & Technologies
 
-These are the programming languages and web technologies I'm exploring as I develop my skills.
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
 </p>
 
@@ -42,18 +46,18 @@ These are the programming languages and web technologies I'm exploring as I deve
 
 ## 📚 What I'm Learning
 
-- **Programming:** developing logical thinking and problem-solving skills
-- **Artificial Intelligence:** exploring AI concepts, models, and practical applications
-- **Cybersecurity:** learning about digital security, vulnerabilities, and system protection
-- **Web Development:** understanding the fundamentals of HTML, CSS, and JavaScript
+- **Programming:** logic, algorithms, and problem-solving
+- **Artificial Intelligence:** AI concepts, models, and practical applications
+- **Cybersecurity:** digital security, vulnerabilities, and system protection
+- **Web Development:** HTML, CSS, and JavaScript fundamentals
 
 ---
 
 ## 📂 Projects & Experiments
 
-This GitHub profile is where I share personal projects, experiments, and practical exercises from my learning journey.
+This profile is where I share personal projects, experiments, and practical exercises throughout my learning journey.
 
-My goal is to turn what I learn into real projects while gradually exploring Artificial Intelligence, Cybersecurity, and software development.
+My goal is to turn knowledge into practical solutions while exploring Artificial Intelligence, Cybersecurity, and software development.
 
 ---
 
@@ -67,5 +71,5 @@ My goal is to turn what I learn into real projects while gradually exploring Art
 ---
 
 <p align="center">
-  <i>Every expert was once a beginner. Keep learning, keep building.</i>
+  <i>Curiosity drives learning. Practice turns knowledge into skills.</i>
 </p>
